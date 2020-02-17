@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java_demo\zookeeper\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xn0DvHNd2NIfquoITE9CdHPeOR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tz.getDataAndWatch">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="PROGRAM_PARAMETERS" value="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tz.createNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="METHOD_NAME" value="createNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tz.exists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="METHOD_NAME" value="exists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tz.getDataAndWatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="METHOD_NAME" value="getDataAndWatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tz.init (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="METHOD_NAME" value="init" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tz.init" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="METHOD_NAME" value="init" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tz.getDataAndWatch" />
+        <item itemvalue="JUnit.Tz.exists" />
+        <item itemvalue="JUnit.Tz.createNode" />
+        <item itemvalue="JUnit.Tz.init (1)" />
+        <item itemvalue="JUnit.Tz.init" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="" />
+      <created>1581666438255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581666438255</updated>
+      <workItem from="1581666452730" duration="122000" />
+      <workItem from="1581666637468" duration="6009000" />
+      <workItem from="1581844307231" duration="860000" />
+      <workItem from="1581845542726" duration="3856000" />
+      <workItem from="1581902217533" duration="9029000" />
+    </task>
+    <task id="LOCAL-00001" summary="zookeeper init">
+      <created>1581912936063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581912936063</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zookeeper init">
+      <created>1581913029654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581913029654</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zookeeper init">
+      <created>1581913102193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581913102193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zookeeper init" />
+    <option name="LAST_COMMIT_MESSAGE" value="zookeeper init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="163" width="816" height="726" key="#Intentions" timestamp="1581844682376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="163" width="816" height="726" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1581844682376" />
+    <state x="552" y="178" key="#Vim_Emulation" timestamp="1581846824395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1581846824395" />
+    <state x="408" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581844510493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="408" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581844510493" />
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1581669659124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581669659124" />
+    <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581847495309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581847495309" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1581913100465">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581913100465" />
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1581913251973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581913251973" />
+    <state width="1237" height="182" key="GridCell.Tab.0.bottom" timestamp="1581911727604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1877" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
+    <state width="1237" height="182" key="GridCell.Tab.0.center" timestamp="1581911727604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1877" height="162" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
+    <state width="1237" height="182" key="GridCell.Tab.0.left" timestamp="1581911727604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1877" height="162" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737032" />
+    <state width="1237" height="182" key="GridCell.Tab.0.right" timestamp="1581911727604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1877" height="162" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
+    <state x="403" y="109" key="SettingsEditor" timestamp="1581907720318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581907720318" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1581906543410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1581906543410" />
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2" timestamp="1581913050729">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581913050729" />
+    <state x="686" y="228" width="626" height="480" key="find.popup" timestamp="1581847865857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="228" width="626" height="480" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581847865857" />
+    <state width="505" height="98" key="javadoc.popup.new" timestamp="1581846302301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="505" height="98" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1581846302301" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581906053269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581906053269" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zookeeper$Tz_createNode.ic" NAME="Tz.createNode Coverage Results" MODIFIED="1581910299177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zhileiedu.zk.*</FILTER>
+    </SUITE>
+  </component>
+</project>
