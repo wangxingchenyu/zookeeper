@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/ha/DistributeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/ha/DistributeServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.jd/ytool/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.jd/ytool/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/zookeeper.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T$MasterWatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T$MasterWatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +30,14 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="21" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,23 +79,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/ha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="JUnit.Tz.getDataAndWatch">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhileiedu.zk" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_demo\zookeeper\src\main\java\com\zhileiedu\zk\ha" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DistributeServer">
+    <configuration name="DistributeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.ha.DistributeClient" />
+      <module name="zookeeper" />
+      <option name="PROGRAM_PARAMETERS" value="one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.ha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributeServer" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.ha.DistributeServer" />
+      <module name="zookeeper" />
+      <option name="PROGRAM_PARAMETERS" value="hadoop02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.T" />
+      <module name="zookeeper" />
+      <option name="PROGRAM_PARAMETERS" value="one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.T1" />
+      <module name="zookeeper" />
+      <option name="PROGRAM_PARAMETERS" value="one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhileiedu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="PROGRAM_PARAMETERS" value="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tz.createNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="T1.exists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zookeeper" />
       <extension name="coverage">
         <pattern>
@@ -89,23 +162,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
-      <option name="METHOD_NAME" value="createNode" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tz.exists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zookeeper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhileiedu.zk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.T1" />
       <option name="METHOD_NAME" value="exists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -128,45 +185,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tz.init (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zookeeper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhileiedu.zk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
-      <option name="METHOD_NAME" value="init" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tz.init" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zookeeper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhileiedu.zk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zhileiedu.zk" />
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.Tz" />
-      <option name="METHOD_NAME" value="init" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.DistributeServer" />
+      <item itemvalue="Application.T" />
+      <item itemvalue="Application.T1" />
+      <item itemvalue="Application.DistributeClient" />
+      <item itemvalue="JUnit.T1.exists" />
+      <item itemvalue="JUnit.Tz.getDataAndWatch" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistributeClient" />
+        <item itemvalue="JUnit.T1.exists" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.T1" />
         <item itemvalue="JUnit.Tz.getDataAndWatch" />
-        <item itemvalue="JUnit.Tz.exists" />
-        <item itemvalue="JUnit.Tz.createNode" />
-        <item itemvalue="JUnit.Tz.init (1)" />
-        <item itemvalue="JUnit.Tz.init" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +229,8 @@
       <workItem from="1581666637468" duration="6009000" />
       <workItem from="1581844307231" duration="860000" />
       <workItem from="1581845542726" duration="3856000" />
-      <workItem from="1581902217533" duration="9029000" />
+      <workItem from="1581902217533" duration="13861000" />
+      <workItem from="1581918123757" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper init">
       <created>1581912936063</created>
@@ -219,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581913102193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zookeeper init">
+      <created>1581913297560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581913297560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,58 +279,73 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1581846824395" />
-    <state x="408" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581844510493">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="132" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581919661939">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="132" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581919661939" />
     <state x="408" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581844510493" />
-    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1581669659124">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="510" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1581916263611">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="510" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1581916263611" />
     <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581669659124" />
+    <state x="407" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581919558676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1581919558676" />
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581916240389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1581916240389" />
     <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581847495309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581847495309" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1581913100465">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1581913290976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581913100465" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581913290976" />
+    <state width="395" height="466" key="DebuggerActiveHint" timestamp="1581918412712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="395" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1581918412712" />
     <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1581913251973">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581913251973" />
-    <state width="1237" height="182" key="GridCell.Tab.0.bottom" timestamp="1581911727604">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1581920578958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581920578958" />
     <state width="1877" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
-    <state width="1237" height="182" key="GridCell.Tab.0.center" timestamp="1581911727604">
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1581920578958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581920578958" />
     <state width="1877" height="162" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
-    <state width="1237" height="182" key="GridCell.Tab.0.left" timestamp="1581911727604">
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1581920578958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581920578958" />
     <state width="1877" height="162" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737032" />
-    <state width="1237" height="182" key="GridCell.Tab.0.right" timestamp="1581911727604">
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1581920578958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581911727604" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581920578958" />
     <state width="1877" height="162" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581907737033" />
-    <state x="403" y="109" key="SettingsEditor" timestamp="1581907720318">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="216" y="0" key="SettingsEditor" timestamp="1581914431872">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="216" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581914431872" />
     <state x="403" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581907720318" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1581906543410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1581906543410" />
-    <state x="233" y="64" key="Vcs.Push.Dialog.v2" timestamp="1581913050729">
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2" timestamp="1581913315244">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="64" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581913050729" />
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1581913315244" />
     <state x="686" y="228" width="626" height="480" key="find.popup" timestamp="1581847865857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,9 +354,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="505" height="98" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1581846302301" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581906053269">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup" timestamp="1581916599872">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581916599872" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581906053269" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
