@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="zookeeper ha configCenter">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/lock/T_Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/lock/WatchCallBack.java" afterDir="false" />
+    <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/ZkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/ZkUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/ZkUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/ZkUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -238,7 +233,7 @@
       <workItem from="1583463784338" duration="610000" />
       <workItem from="1588741732974" duration="1797000" />
       <workItem from="1588752781487" duration="18924000" />
-      <workItem from="1588837439349" duration="15953000" />
+      <workItem from="1588837439349" duration="21368000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper init">
       <created>1581912936063</created>
@@ -289,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588839977326</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="zookeeper ha configCenter Lock">
+      <created>1588914405952</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588914405952</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +301,8 @@
     <MESSAGE value="zookeeper init" />
     <MESSAGE value="zookeeper ha架构" />
     <MESSAGE value="zookeeper ha configCenter" />
-    <option name="LAST_COMMIT_MESSAGE" value="zookeeper ha configCenter" />
+    <MESSAGE value="zookeeper ha configCenter Lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="zookeeper ha configCenter Lock" />
   </component>
   <component name="WindowStateProjectService">
     <state x="546" y="163" width="816" height="726" key="#Intentions" timestamp="1581844682376">
@@ -340,20 +343,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581847495309" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588847491462">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588914400874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581920609816" />
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588847491462" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588914400874" />
     <state width="395" height="466" key="DebuggerActiveHint" timestamp="1581918412712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="395" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1581918412712" />
-    <state x="632" y="128" key="FileChooserDialogImpl" timestamp="1588743536497">
+    <state x="632" y="128" key="FileChooserDialogImpl" timestamp="1588917756084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582249394949" />
-    <state x="632" y="128" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588743536497" />
+    <state x="632" y="128" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588917756084" />
     <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1588914383796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -416,11 +419,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="505" height="98" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1581846302301" />
-    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup" timestamp="1581916599872">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="299" y="148" key="new project wizard" timestamp="1588917773614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="299" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588917773614" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588916717260">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="415" y="147" width="672" height="444" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581916599872" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581906053269" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588916717260" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zookeeper$Tz_createNode.ic" NAME="Tz.createNode Coverage Results" MODIFIED="1581910299177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
