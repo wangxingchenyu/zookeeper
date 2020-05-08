@@ -1,52 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/DefaultWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/MyConf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/WatchCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/ZkUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/n_example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/n_example/T_Volatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/o_example/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/zookeeper.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/DefaultWatch$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/DefaultWatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/MyConf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/WatchCallBack$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/WatchCallBack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/ZkUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/ha/DistributeClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/ha/DistributeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/ha/DistributeServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/ha/DistributeServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/App$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/App$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/App$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/n_example/T_Volatile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T$MasterWatcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T1$MyWatcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/T2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/Tz$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/o_example/Tz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="zookeeper ha configCenter">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/lock/T_Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/lock/WatchCallBack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/o_example/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/o_example/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/Tz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/o_example/Tz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T$MasterWatcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/Tz$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/Tz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/ZkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/configCenter/ZkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/ZkUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/configCenter/ZkUtils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +67,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -121,7 +83,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -134,7 +96,7 @@
       <recent name="D:\java_demo\zookeeper\src\main\java\com\zhileiedu\zk\ha" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestConfig.getConf">
+  <component name="RunManager" selected="JUnit.T_Lock.lock">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.n_example.App" />
       <module name="zookeeper" />
@@ -191,17 +153,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1.exists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="T_Lock.lock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zookeeper" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhileiedu.zk.o_example.*" />
+          <option name="PATTERN" value="com.zhileiedu.zk.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zhileiedu.zk.o_example" />
-      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.o_example.T1" />
-      <option name="METHOD_NAME" value="exists" />
+      <option name="PACKAGE_NAME" value="com.zhileiedu.zk.lock" />
+      <option name="MAIN_CLASS_NAME" value="com.zhileiedu.zk.lock.T_Lock" />
+      <option name="METHOD_NAME" value="lock" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,16 +190,16 @@
       <item itemvalue="Application.DistributeClient" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.T_Volatile" />
-      <item itemvalue="JUnit.T1.exists" />
       <item itemvalue="JUnit.TestConfig.getConf" />
+      <item itemvalue="JUnit.T_Lock.lock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.T_Lock.lock" />
         <item itemvalue="JUnit.TestConfig.getConf" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.T_Volatile" />
         <item itemvalue="Application.DistributeClient" />
-        <item itemvalue="JUnit.T1.exists" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +238,7 @@
       <workItem from="1583463784338" duration="610000" />
       <workItem from="1588741732974" duration="1797000" />
       <workItem from="1588752781487" duration="18924000" />
-      <workItem from="1588837439349" duration="2515000" />
+      <workItem from="1588837439349" duration="15953000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper init">
       <created>1581912936063</created>
@@ -320,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588839891397</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="zookeeper ha configCenter">
+      <created>1588839977326</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588839977326</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,19 +315,19 @@
     </state>
     <state x="132" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581919661939" />
     <state x="408" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581844510493" />
-    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1588831595823">
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1588907370853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1581916263611" />
-    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588831595823" />
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588907370853" />
     <state x="407" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581919558676">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="407" y="129" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1581919558676" />
-    <state x="574" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588817201236">
+    <state x="574" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588845003852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588817201236" />
+    <state x="574" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588845003852" />
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581916240389">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -371,11 +340,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581847495309" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588839971818">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588847491462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581920609816" />
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588839971818" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588847491462" />
     <state width="395" height="466" key="DebuggerActiveHint" timestamp="1581918412712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -385,26 +354,26 @@
     </state>
     <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582249394949" />
     <state x="632" y="128" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588743536497" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1588839149825">
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1588914383796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="186" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581925808923" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588839149825" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1588839149825">
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588914383796" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1588914383795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="186" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581925808923" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588839149825" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1588839149825">
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588914383795" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1588914383795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="186" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581925808923" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588839149825" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1588839149825">
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588914383795" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1588914383796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="186" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581925808923" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588839149825" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588914383795" />
     <state width="1877" height="267" key="GridCell.Tab.1.bottom" timestamp="1588816637710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -421,11 +390,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="267" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588816637710" />
-    <state x="772" y="103" width="994" height="708" key="SettingsEditor" timestamp="1588839654971">
+    <state x="772" y="103" width="994" height="708" key="SettingsEditor" timestamp="1588913768931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="216" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582087482366" />
-    <state x="772" y="103" width="994" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588839654971" />
+    <state x="772" y="103" width="994" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588913768931" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1581906543410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
