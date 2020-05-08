@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b58a4c6-0a19-4a05-bd4f-4d0635cd0265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk/testCurator/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/lock/T_Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/lock/WatchCallBack$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/lock/WatchCallBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zhileiedu/zk/testCurator/T.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhileiedu/zk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +238,7 @@
       <workItem from="1583463784338" duration="610000" />
       <workItem from="1588741732974" duration="1797000" />
       <workItem from="1588752781487" duration="18924000" />
-      <workItem from="1588837439349" duration="21368000" />
+      <workItem from="1588837439349" duration="21875000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper init">
       <created>1581912936063</created>
@@ -291,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588914405952</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="zookeeper ha configCenter Lock">
+      <created>1588923718339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588923718339</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,11 +355,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581847495309" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588914400874">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1588923715780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581920609816" />
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588914400874" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588923715780" />
     <state width="395" height="466" key="DebuggerActiveHint" timestamp="1581918412712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
